@@ -1,0 +1,234 @@
+---
+#
+# Infosec Deck: Example 
+# License: Creative Commons BY-CC-SA
+#
+# There are 4 card types:
+# - Assets
+# - Attack
+# - Defense (mitigation)
+# - Skill
+#  
+#  Please observe:
+#  You can use any name, category, image, etc.
+#  Do not forget to add the image credits
+#  Do not use AI-generated images, plz
+#
+#  Add yourself to AUTHORS, if you want credit
+#  for the cards you added
+#
+- id: iNBGdHR6qCqDpHAjQJsXp5
+  name: OpenBSD
+  type: defense
+  category: computing
+  url:
+  description: 'An operating system that is primarily concerned with information security.'
+  image: http://www.openbsd.org/images/MangaRamblo.jpg
+  image credits:
+  image info: http://openbsd.org
+  value: 9
+  notes:
+
+- id: rXVmAb4xDxAwesEuoP6zVW
+  name: Bin Laden's pendrive
+  type: asset 
+  category: computing 
+  url:
+  description: 'Bin Laden used an USB key to communicate using molecular technology: he sent a kid to an Internet cafe to download his emails.'
+  image: https://static01.nyt.com/images/2011/05/08/world/asia/sub-binladen/sub-binladen-jumbo.jpg
+  image credits:
+  image info: http://www.nytimes.com/2011/05/08/world/asia/08binladen.html?_r=2&pagewanted=all
+  value: 5
+  notes:
+
+- id: CZwQt5yUx5BrAQGqT2u5w9
+  name: Phone Phreaking
+  type: skill
+  category: phone-hacking
+  url:
+  description: 'Specialized attack to bypass phone security.'
+  image: http://www.wideweb.com/phonetrips/phreaks.jpg
+  image credits:
+  image info: http://www.wideweb.com/phonetrips/
+  value: 5
+  notes:
+
+- id: oovVx5Zv9KtVpAbdUjehnA
+  name: Icecream truck 
+  type: asset
+  category: surveillance 
+  url:
+  description: 'You will never know what is happening inside the icecream tream, but you can be sure that they are monitoring you!'
+  image: https://c2.staticflickr.com/2/1102/1486290112_929b4200ba_z.jpg
+  image credits:
+  image info: https://flic.kr/p/3gkCgA
+  value: 6
+  notes:
+
+- id: CivdVTxTiX6cgoHL7PMotA
+  name: Hacking Team
+  type: defense
+  category: human
+  url:
+  description: 'Black hat group that sells services worldwide. It had a very lax internal security and paid the price.'
+  image: http://d.ibtimes.co.uk/en/full/1447494/hacking-team-malware-exploit-kits.png
+  image credits:
+  image info:
+  value: 3
+  notes:
+
+- id: dboKbHUqpaHPPKgxgfHspF
+  name: Whistleblower
+  type: skill
+  category: human
+  url:
+  description: 'Saw misconduct and wrongdoing and decided to take responsability.'
+  image: https://openclipart.org/image/800px/svg_to_png/194160/football-referee-whistle.png
+  image credits:
+  image info: https://openclipart.org/detail/194160/football-referees-whistle
+  value: 10
+  notes:
+
+- id: rw5D6amZDuLhLYt2LjYV6S
+  name: Hackerman
+  type: asset
+  category: human
+  url:
+  description: '"Hackerman, the biggest hacker of all times! Hack time with the function hackingTime();'
+  image: https://i.imgur.com/S7gfKKB.jpg
+  image credits:
+  image info:
+  value: 8
+  notes:
+
+- id: VCT2hxYbov4ZZ5Ao6m8uHb
+  name: 2600
+  type: asset
+  category: human
+  url:
+  description: 'The biggest and most important hacker and phreaker zine in the US.'
+  image: https://upload.wikimedia.org/wikipedia/commons/d/db/2600_van.jpg
+  image credits:
+  image info:
+  value: 2
+  notes:
+
+- id: vrZue4DhLwJaVJs8tPEDsE
+  name: Lazy sysadmin
+  type: defense
+  category: human
+  url:
+  description: 'The budget of your organization is low, so he is the best you could hire. Network security and backups? Forget it!'
+  image: https://venturebeat.com/wp-content/uploads/2013/01/lazy-office-worker.png
+  value: 2
+  notes:
+
+- id: fHrZipHDVAtpzQZzje9SxL
+  name: Social engineering
+  type: skill
+  category: human
+  url:
+  description: 'It does not matter who you are. I am an alpinist and I will climb your brain.'
+  image: https://farm4.staticflickr.com/3056/2857238260_4f5e29f5e6_o.jpg
+  image info: https://www.flickr.com/photos/andertoons-cartoons/2857238260/
+  image credits:
+  image license:
+  image authorized:
+  value: 6
+  notes:
+
+- id: a7NKcuXcKHXQT5NNy9zpH7
+  name: Wiretap 
+  type: attack
+  category: computing 
+  url:
+  description: 'With or without noise, the phone communication of your organization is compromised (if it is not protected)!'
+  image: https://upload.wikimedia.org/wikipedia/commons/e/eb/This_Phone_Is_Tapped.jpg
+  image credits:
+  image info: https://en.wikipedia.org/wiki/Telephone_tapping#/media/File:This_Phone_Is_Tapped.jpg
+  value: 5
+  notes:
+
+- id: i63ngho7HEF4xHuXiNALZY
+  name: Brute force
+  type: attack
+  category: computing 
+  url: https://firstlook.org/theintercept/2015/03/26/passphrases-can-memorize-attackers-cant-guess/
+  description: '"You must assume that your adversary is capable of 1 trillion tries per second" - Edward Snowden'
+  image: http://www.fadedindustry.com/wp-content/uploads/2013/05/kali-muscle-train.jpg
+  image credits:
+  image info: http://www.fadedindustry.com/monster-the-kali-muscle-story/
+  value: 4
+  notes:
+
+- id: RPSXhdd8jfNY6puvRQW2QJ
+  name: Zero day
+  type: attack
+  category: computing
+  url:
+  description: 'Explore the vulnerabilities of the computing systems of your adversaries without them knowing.'
+  image: https://4.bp.blogspot.com/-UBy2paFv2Qg/Ve4-GyIFOBI/AAAAAAAAGJs/NLDJkorjIoU/s640/images.jpg
+  image credits:
+  image info:
+  value: 9
+  notes:
+
+- id: Qs8Eeo4hCJpCaqzyS7cS4R
+  name: Dumpster diving
+  type: skill
+  category: social-engineering
+  url:
+  description: 'How about a good dive in the dumpster in search of corporate secrets?'
+  image: https://upload.wikimedia.org/wikipedia/commons/f/f2/Darren_in_dumpster_6.jpg
+  image credits:
+  image info: https://commons.wikimedia.org/wiki/File:Darren_in_dumpster_6.jpg
+  value: 8
+  notes:
+
+- id: eLMCe5Zep8zMBxpiZdq9rS
+  name: Foresic police 
+  type: attack
+  category: computing
+  url:
+  description: 'Recuperate files and documents that your adversary was trying to protect.'
+  image: http://victorypi.com/wp-content/uploads/2012/10/computer-forensics.jpg
+  image credits:
+  image info: http://victorypi.com/services/computer-forensics-deleted-data-recovery/
+  value: 4
+  notes:
+
+- id: 7senvjiJLYA4zCzeeumzWS
+  name: PRISM
+  type: attack
+  category: computing
+  url:
+  description: 'Force a cooperation with the top Internet companies in the world in search of intelligence.'
+  image: https://openclipart.org/image/800px/svg_to_png/181904/prism-logo.png
+  image credits:
+  image info: https://openclipart.org/detail/181904/prism-logo
+  value: 3
+  notes:
+
+- id: thaRrtiKtp8fu8izhRPzVK
+  name: Trojan horse 
+  type: attack
+  category: computing
+  url:
+  description: 'Someone gave you a super useful program, but... in the background, it is compromising your organization.'
+  image: http://www.lcscss.com/upload/0/a7/0a770c1c55b71fd7.jpg
+  image credits:
+  image info: http://www.lcscss.com/oc-restaurants-cited-for-vermin-infestation/
+  value: 3
+  notes:
+
+- id: 27UCsTGHY3QZvz5qpoqv5N
+  name: Keylogger
+  type: attack
+  category: computing
+  url:
+  description: 'Collect passwords easily by installing a hardware or software that spies on keyboard or telephone keystrokes.'
+  image: https://upload.wikimedia.org/wikipedia/commons/d/dc/Keylogger-hardware-PS2-example-connected.jpg
+  image credits: GFDL
+  image info: https://en.wikipedia.org/wiki/Keystroke_logging#/media/File:Keylogger-hardware-PS2-example-connected.jpg
+  value: 4
+  notes:
