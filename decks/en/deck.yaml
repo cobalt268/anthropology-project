@@ -150,7 +150,7 @@
   category: Malwarebytes-Azure
   url:
   description: "Reduce outstanding privileges, shorten token lifetime, and limit app access to sensitive mailboxes to reduce the effectiveness of cloud-based attack vectors."
-  image: https://damienbod.com/wp-content/uploads/2021/01/tokenpolicyoverview_01.png
+  image: https://images.thdstatic.com/productImages/983e539d-bc24-4375-8b3c-78103d049c82/svn/blacks-mail-boss-post-mount-mailboxes-7106-e1_600.jpg
   image credits: 
   image info: 
   value: 4
@@ -168,7 +168,7 @@
   value: 4
   notes:
 
-#
+# cloud hopper
 
 - id: 3sJ6QxLNfZCQ67JYtczEqh
   name: "Operation Cloud Hopper"
@@ -226,7 +226,7 @@
   category: Fansmitter
   url:
   description: "Exfiltrate data even from airgapped machines using microphones to listen to data-modulated fan noise from compromised devices."
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDKRPIUVpOamWxLx7BxwjYmuGxq8nfr-Fcw&s
+  image: https://cdn.prod.website-files.com/659d4e2fa28f3956c9c99d8c/67febf38d280b0bdd5a81eb6_cube-hot-spot-fox-gordon-ramsey-secret-service.jpg
   image credits: 
   image info: 
   value: 4
@@ -238,7 +238,7 @@
   category: Fansmitter
   url:
   description: "Stop Fansmitter by sweeping rooms with sensitive machines for listening devices, scanning for the responsible malware, monitoring fan usage, and implementing acoustic shielding."
-  image: https://images.squarespace-cdn.com/content/v1/66be2c29a4ea7e055902a974/8513ea1b-407c-44a3-938e-4c189de3bb24/230703_julianwalter_orfieldlabs_0077+edit.jpg
+  image: https://dbabsorber.com/cdn/shop/articles/Chamber_9e2cd143-af05-4751-9b6d-58e104347248.png?v=1770183439
   image credits: 
   image info: 
   value: 4
@@ -288,7 +288,7 @@
   category: Pegasus
   url:
   description: "Be certain Pegasus isn't present on your device. Lockdown and harden your phone's software, quickly patch security issues, ditch fancy messaging features to reduce attack surface, and forensically analyze your phone."
-  image: https://the-soul-doctor.com/wp-content/uploads/2010/05/can-you-hear-me-now-767972.jpg
+  image: https://www.hollywoodreporter.com/wp-content/uploads/2011/04/verizon-guy-2011-a-l.jpg
   image credits: 
   image info: 
   value: 4
@@ -312,7 +312,7 @@
   category: Pegasus
   url:
   description: "Really screw with your target by taking advantage of just how much information their phone offers (audio, location, even relative humidity!)"
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSujdWxAfZC2Pw2A10EXowtJ1b3f_9uoJF1KQ&s
+  image: https://photos5.appleinsider.com/gallery/63092-131355-Find-my-header-xl.jpg
   image credits: 
   image info: 
   value: 4
