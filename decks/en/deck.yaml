@@ -18,6 +18,8 @@
 #  for the cards you added
 #
 
+# need at least 57 cards
+
 #solarwinds cards
 
 - id: cpzAgHBDwiT4idgpaNA4Rq
@@ -38,7 +40,7 @@
   category: SolarWinds
   url:
   description: "Neutralize SUNBURST by securing build pipelines, protecting code-signing, validating vendor updates, and monitoring anomalous Orion and outbound traffic."
-  image: https://www.hpcwire.com/bigdatawire/wp-content/uploads/sites/2/2024/05/SolarWinds-Logo.wine_.png
+  image: https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2019/03/AV-needs-to-keep-its-lock-and-key-secure.jpg
   image credits: 
   image info: 
   value: 4
@@ -313,6 +315,254 @@
   url:
   description: "Really screw with your target by taking advantage of just how much information their phone offers (audio, location, even relative humidity!)"
   image: https://photos5.appleinsider.com/gallery/63092-131355-Find-my-header-xl.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+# stuxnet
+
+- id: ELAE3oKVNGyiSQzSbtuuRU
+  name: "We Wouldn't Happen to be Invading Iran Today, Would We?"
+  type: attack
+  category: STUXNET
+  url: 
+  description: "Team up with your buddies in the IDF to compromise programmable logic controllers and cripple a pariah state's nuclear centrifuges."
+  image: https://i.redd.it/8c3yo573cb5f1.png
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: 9BshBRnFUtBKwKafMKizbY
+  name: "The Logical Conclusion"
+  type: defense
+  category: STUXNET
+  url: 
+  description: "Defend your programmable logic controllers with good monitoring, application whitelisting, and patch verification."
+  image: https://www.shutterstock.com/image-vector/vector-illustration-prohibited-no-usb-260nw-2605932567.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: DJNwuP6sgcbEPuRTFSPiWJ
+  name: "Solid Logic is Hard to Come By"
+  type: nerf
+  category: STUXNET
+  url: 
+  description: "Reduce threats to your programmable logic controllers through increased auditing, requiring multiple users to authorize major changes, and reducing USB access to workstations."
+  image: https://www.isotracker.com/wp-content/uploads/internal-quality-audits.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: WMY9vJJX8smTTu6sLx85qs
+  name: "Don't Mind the Gap"
+  type: boost
+  category: STUXNET
+  url: 
+  description: "Crack into airgapped PLC devices by infecting USB drives carried into facilities by staff."
+  image: https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2019/12/18103600/shutterstock_195876356-min.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+# nsa tao hdd firmware
+
+- id: DTV6jZgRdsDrdwDzofBJT5
+  name: "Disk Jockey"
+  type: attack
+  category: NSA HDD Firmware
+  url:
+  description: "Modify hard drive firmware to create infections that persist past OS reinstalls and disk formatting. You're probably the NSA, BTW."
+  image: https://upload.wikimedia.org/wikipedia/commons/5/54/ALEX_NILSON.jpg
+  image info: 
+  value: 4
+  notes:
+
+- id: brDoErwMW4BydVh3okRLvu
+  name: "disk denied (dd)"
+  type: defense
+  category: NSA HDD Firmware
+  url: 
+  description: "Utilize secure boot with TPM, scrutinize your procurement process, and perform physical forensics on hardware to avoid infected hard drive firmware."
+  image: https://www.linuxbabe.com/wp-content/uploads/2016/07/show-dd-progress-coreutils.png
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: BnY2CZh8tLsA8Pb3CgVf3x
+  name: "Disk Delusion"
+  type: nerf
+  category: NSA HDD Firmware
+  url:
+  description: "Go full conspiracy theorist on your hard drives. Trust nothing, not even air-gapped systems. Use out-of-band hardware verification. Monitor your supply chains."
+  image: https://www.shutterstock.com/image-photo/portrait-crazy-conspiracy-theorist-mobile-260nw-1999154063.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: ZRCRGZFwEGC5C49NLHHMe2
+  name: "Inconspicu-disk"
+  type: boost
+  category: NSA HDD Firmware
+  url:
+  description: "Keep the HDD firmware backdoor gravy train running by being extremely judicious in it's use, delaying its eventual detection."
+  image: https://thumbs.dreamstime.com/b/sneaky-emoticon-vector-design-66765543.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+# Aurora
+
+- id: GFQHBxkHLRJ59m3pVUdMpy
+  name: "Aurora Borealis"
+  type: attack
+  category: Aurora
+  url:
+  description: "Initiate Operation Aurora as a Chinese APT. Use a zero-day in Internet Explorer to spear-phish employees at Google, Adobe, and more. Install keyloggers and remote access tools."
+  image: https://i.imgur.com/IsrZr5u.png
+  image info: 
+  value: 4
+  notes:
+
+- id: WtMnUMpUxWgygk3QTsULwi
+  name: "Seymour the House is on Fire!"
+  type: defense
+  category: Aurora
+  url:
+  description: "Patch browser vulnerabilities as soon as possible, separate source code repos from workstations with network access controls, and monitor network traffic patterns."
+  image: https://pbs.twimg.com/media/GNRCLd1WwAAOQ6n.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: WK75buiHkS5izUWUXoTjsL
+  name: "Localized Entirely Within Your Kitchen???"
+  type: nerf
+  category: Aurora
+  url:
+  description: "Use behavioral analytics to try to detect code exfiltration, use SSL/TLS inspection at network boundaries."
+  image: https://ftw.usatoday.com/gcdn/authoring/images/smg/2025/02/24/SFTW/80078767007-90-2250997.jpeg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: 8E6LTVFqaV6xUXaQzQxuEU
+  name: "No Mother, it's just the Northern Lights"
+  type: boost
+  category: Aurora
+  url:
+  description: "Use your Operation Aurora backdoors to infiltrate defense contractors and other tech companies with ties to Google."
+  image: https://i.redd.it/bfsaxn8eg5p11.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+# comment crew
+
+- id: cSaokQjtR8FRuPsYjrJYQ6
+  name: "Data 'Liberation' Army"
+  type: attack
+  category: Comment Crew
+  url:
+  description: "As the Comment Crew, an elite Chinese PLA unit, perform sophisticated nation-state hacking on targets worldwide. Use zero-days and spear-phishing to gain access, use custom malware to persist, and exfiltrate hundreds of terabytes of intellectual property."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/China_Emblem_PLA.svg/250px-China_Emblem_PLA.svg.png
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: 5SPaa4F4HNhZoVKGENkyZ6
+  name: "No Requests for Comment"
+  type: defense
+  category: Comment Crew
+  url:
+  description: "Deploy phishing-resistant MFA factors like hardware keys. Sandbox emails and wipe attachments. Implement privileged access management to protect IP."
+  image: https://www.shutterstock.com/shutterstock/photos/1899718939/display_1500/stock-vector-rfc-request-for-comments-acronym-business-concept-background-vector-illustration-concept-1899718939.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: TZ2Uqs4hw9pwjrgptLXUnZ
+  name: "Comments Ignored"
+  type: nerf
+  category: Comment Crew
+  url: 
+  description: "Use canary files and honeytokens to detect persistent intrusion. Flag access of resources outside of usual user account scope. Mandate credential rotation after suspicious events."
+  image: https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/blogs/97099/2013/03/121382-119717.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: kYDmdPz3eXjVNCxguCgQGK
+  name: "Just One More Comment"
+  type: boost
+  category: Comment Crew
+  url: 
+  description: "Pick especially weak targets with a lot of valuable IP. Good targets have weak endpoint detection, no user behavior analysis, unsegmented networks, overuse of poorly secured email, and poor access control."
+  image: https://image.similarpng.com/file/similarpng/very-thumbnail/2020/11/Comment-icon-on-transparent-background-PNG.png
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+# dragonfly
+
+- id: TouNeQbkHXNESs2cS8bvLs
+  name: "The Dragonfly"
+  type: attack
+  category: Dragonfly
+  url:
+  description: "Attack Western European and North American defense and energy companies as the Russian FSB. Implement this offensive with malicious PDF attachments spear-phished at employees. Poison the watering hole on energy-sector websites with Java/IE exploit kit injection. Trojanize ICS software and, creating remote access and exfiltrating configuration and topology information.."
+  image: https://www.treehugger.com/thmb/1UGEjB6ykn52cVpLFitfw2vqwsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4-bc3246043abe473ab750f039b5c70b53.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: hWkXP9o4zaBsqGNWyMZrgo
+  name: "The Flyswatter"
+  type: defense
+  category: Dragonfly
+  url:
+  description: "Implement asset monitoring for ICS devices, log enumeration attempts, push vendors to secure their sites, verify ICS software integrity, and separate IT and OT networks."
+  image: https://m.media-amazon.com/images/I/8187ceddHbL.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: TM3fbACdtCAxGCvoX3FEUc
+  name: "The Bug Lamp"
+  type: nerf
+  category: Dragonfly
+  url: 
+  description: "Verify software downloads against hashes and audit software updates from vendors."
+  image: https://images.thdstatic.com/productImages/ae837783-5334-43bb-956b-b0a2735b0a61/svn/black-insect-traps-hdsa11ot043-64_600.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: gtCTXXJv5Cr5fMHimJTPD9
+  name: "The Swarm"
+  type: boost
+  category: Dragonfly
+  url:
+  description: "Accelerate Dragonfly's operations by finding energy company targets using HTTP for vendor software updates, poor integrity verification, and internet-connected workstations."
+  image: https://i0.wp.com/farm4.static.flickr.com/3201/2893876500_217e1e8ccb_z.jpg
   image credits: 
   image info: 
   value: 4
