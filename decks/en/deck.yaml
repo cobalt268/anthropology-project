@@ -568,52 +568,202 @@
   value: 4
   notes:
 
-#
+# soft cell
 
-# - id: 
-#   name: 
-#   type: attack
-#   category: 
-#   url:
-#   description: 
-#   image: 
-#   image credits: 
-#   image info: 
-#   value: 4
-#   notes:
+- id: 6NR3QBhShRNnF9wg4VqD66
+  name: "Telecommunism"
+  type: attack
+  category: Soft Cell
+  url:
+  description: "As the PRC-affiliated APT GALLIUM, sieze the means of communication in the Middle East through spear-phishing, web shells, and remote access tools against telecom companies." 
+  image: https://static.wixstatic.com/media/817432_0ada3756644d4823a2edb27f9afc31bb~mv2.jpg/v1/fill/w_568,h_378,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/817432_0ada3756644d4823a2edb27f9afc31bb~mv2.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
 
-# - id: 
-#   name: 
-#   type: defense
-#   category: 
-#   url:
-#   description: 
-#   image: 
-#   image credits: 
-#   image info: 
-#   value: 4
-#   notes:
+- id: YuuX6PFTpz8wKG9yb9m5qu
+  name: "A to B Conversation, C Yourself Out"
+  type: defense
+  category: Soft Cell
+  url:
+  description: "Harden corporate emails for telecom companies. Block risky attachments, segment management systems, monitor credential and lateral movement anomalies."
+  image: https://previews.123rf.com/images/gpointstudio/gpointstudio1705/gpointstudio170500108/77425277-private-conversation-between-work-mates.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
 
-# - id: 
-#   name: 
-#   type: nerf
-#   category: 
-#   url:
-#   description: 
-#   image: 
-#   image credits: 
-#   image info: 
-#   value: 4
-#   notes:
+- id: AXnqzHAfNc48TfmiyZbbHd
+  name: "Do You Think They Can Hear Us?"
+  type: nerf
+  category: Soft Cell
+  url:
+  description: "Compartmentalize subscriber and call data systems, reduce administrative sprawl, and make lateral movement more difficult for hackers."
+  image: https://t4.ftcdn.net/jpg/06/42/13/29/360_F_642132914_zpxlHGLlL3ASJVW662zGIJ0vMpBoSoBR.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
 
-# - id: 
-#   name: 
-#   type: boost
-#   category: 
-#   url:
-#   description: 
-#   image: 
-#   image credits: 
-#   image info: 
-#   value: 4
-#   notes:
+- id: Dx6drHezKurXzP9jcUwHiN
+  name: "The Call is Coming From Inside the House"
+  type: boost
+  category: Soft Cell
+  url:
+  description: "Analyze strategic access and communications metadata to gain greater insight even with a minimal foothold in the system."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gingerbread_House_Essex_CT.jpg/250px-Gingerbread_House_Essex_CT.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+# red october
+
+- id: HeyaVGZLT66fHrjf6mPQdX
+  name: "The Hunt Begins"
+  type: attack
+  category: Red October
+  url:
+  description: "Spear-phish into diplomatic and government offices using malicious Microsoft Office documents. Use a modular backdoor with configurable extensions for credential/file theft."
+  image: https://upload.wikimedia.org/wikipedia/en/3/36/The_Hunt_for_Red_October_movie_poster.png
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: bLfH8pFTQCSqWVppC8kYtK
+  name: "Found You"
+  type: defense
+  category: Red October
+  url: 
+  description: "Be attentive to document software patches, sandbox received attachments, harden email filtering, and monitor unusual module loading and credential usage to stop the Red October attacks."
+  image: https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/07/the-hunt-for-red-october-sean-connery.jpg?w=1200&h=675&fit=crop
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: ZAp7phMn9R8SthgaUCYoVq
+  name: "They're Here Somewhere"
+  type: nerf
+  category: Red October
+  url:
+  description: "Segment diplomatic networks, encrypt sensitive files, reduce credential caching, and monitor file access to try and weed out intruders."
+  image: https://content.imageresizer.com/images/memes/hes-in-the-walls-meme-8.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: 6bzCoEZqZAtAU5Lc77x73a
+  name: "Globalize the Revolution"
+  type: boost
+  category: Red October
+  url:
+  description: "Refine your spear-phishing abilities with more believable lures, develop highly modular malware that can better adapt to victim environments to facilitate long-term intrusion."
+  image: https://cdn.britannica.com/78/121178-050-95767572/crowd-Vladimir-Ilyich-Lenin-Russian-Revolution-1917.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+# sandworm
+
+- id: ncGVQdqwLZVYwdeYfACRfK
+  name: "We're Trying to Get the (Soviet) Union Back Together!"
+  type: attack
+  category: Sandworm 2015
+  url:
+  description: "As a Russian GRU unit codenamed Sandworm, stage a multi-phase attack against the Ukranian civilian power grid. Use spear-phishing to deploy BlackEnergy3 malware and gain access to IT networks. Next, capture credentials to transit into ICS and SCADA systems. Finally, use your abilities to open circuit breakers, brick serial-Ethernet converters, wipe operator workstations, and DoS call centers."
+  image: https://www.aljazeera.com/wp-content/uploads/2025/08/INTERACTIVE-ukraine-russua-cover-AUG-12-2025-copy-4-1-1755156377.png?resize=770%2C513&quality=80
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: hgfvxDFWTvXVmh2BcKSSZW
+  name: "We Got the Power"
+  type: defense
+  category: Sandworm 2015
+  url:
+  description: "Enforce IT/OT network separtion, implement unidirectional data diodes for OT, conduct ICS incident response drills, and monitor/upgrade SCADA security systems."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Centrale-nucl%C3%A9aire-de-saint-alban-1.jpg/1280px-Centrale-nucl%C3%A9aire-de-saint-alban-1.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: Ak5hPJAGCvcnm5UrokyPjP
+  name: "Ride the Worm"
+  type: nerf
+  category: Sandworm 2015
+  url:
+  description: "Remove unnecessary direct connections between IT and OT nets, require engineering staff authentication to SCADA with privileged access management, audit SCADA nets frequently, and ensure manual power restoration procedures remain operational."
+  image: https://www.giantfreakinrobot.com/wp-content/uploads/2024/03/image-900x506.png
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: cKNYFaJ6myoTJ725Lku7XJ
+  name: "My Arrakis. My Dune."
+  type: boost
+  category: Sandworm 2015
+  url:
+  description: "Extend your desert power by finding more energy utilities with direct IT-OT connections, SCADA systems accessible from remote desktops, and utility firms particularly prone to spear-phishing. Discover and negate manual incident response protocols."
+  image: https://pbs.twimg.com/media/FHNnWvvXIAU-l28.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+# salt typhoon
+
+- id: d9sDSnkQ8YAxT7NKjzqBc
+  name: "You Salty?"
+  type: attack
+  category: Salt Typhoon
+  url:
+  description: "Break into US telecom carriers with spear-phishing, as well as exploiting unpatched infrastructure and possibly BGP itself. Deploy your ShadowPad rootkit to persist within telecom infrastructure. Gain and exploit access to law-inforcement communication intercept platforms."
+  image: https://www.editdit.com/_nuxt/img/Troll-Face-Colored.829f580.png
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: bd9S2diGL4riXntFHdZnVW
+  name: "No Salt Please"
+  type: defense
+  category: Salt Typhoon
+  url: 
+  description: "Recognize telecom infrastructure for the critical national security point of failure it is. Patch all carrier routers, switches, and lawful intercept systems. Implement MFA to reduce phishing of telecom employees. Implement end-to-end encryption of communications."
+  image: https://thumbs.dreamstime.com/b/no-salt-red-sign-not-salt-round-prohibition-symbol-stop-symbol-unhealthy-food-free-sodium-msg-free-vector-illustration-flat-design-257407999.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: BG5MaBstR8yfjMtSW3z8Rf
+  name: "Low Salt Please"
+  type: nerf
+  category: Salt Typhoon
+  url:
+  description: "Conduct routine pentests on lawful intercept systems, isolate intercept systems from general carrier management infrastructure, and implement logging and access controls on intercept system interfaces."
+  image: https://www.myfooddiary.com/blog/asset/2263/lower_sodium_intake.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
+
+- id: FBHkn5dGk7rRdD2T4Qwj7s
+  name: "Salt Mine"
+  type: boost
+  category: Salt Typhoon
+  url:
+  description: "Find lazy telecoms with aging core infrastructure, unencrypted legacy protocols in backbones, and absence of monitoring for anomalous queries to lawful intercept systems."
+  image: https://upload.wikimedia.org/wikipedia/commons/8/80/%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1_%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1_5021.jpg
+  image credits: 
+  image info: 
+  value: 4
+  notes:
